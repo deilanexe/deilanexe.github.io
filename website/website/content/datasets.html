@@ -1,0 +1,38 @@
+---
+extends: base.j2
+default_block: main
+title: Semantic Relatedness Datasets
+description: Datasets used for measuring Semantic Relatedness
+---
+
+<div class="banner">
+	<h3>Dataset for Semantic Relatedness using Domain Information</h3>
+</div>
+<br />
+<div class="blog_excerpt">
+	The files in the links were used for the experiments described in Chapters 5 and 6 of my thesis, and in the following paper:
+
+			<p class="paper">Macias-Galindo, D., Cavedon, L., Wong, W., and Thangarajah, J., <span class="paper-title">Effects of Domain on Measures of Semantic Relatedness</span>. Journal of the American Society for Information Science and Technology. Vol. 66, Issue No. 10, ISSN: 2330-1643. Pages 2116-2131.</p>
+
+	The three files are stored in CSV format.<br>
+	Each line corresponds to a pair of concepts (from the same domain or from different domains), as follows:
+	<p>
+	<strong>Same Domain Subset (ssd.csv):</strong> <i> concept A,definition A, concept B, definition B, domain, average score</i><br>
+	<strong>Same Domain Subset with wikilinks (ssd_w.csv):</strong> <i> concept A,definition A, concept B, definition B, domain, wikilinks A-to-B, wikilinks B-to-A, average score</i><br>
+	<strong>Cross Domain Subset (xdd_end.csv):</strong><br>
+	</p><ul>
+	<li>General: <i> concept A,definition A, concept B, definition B, domain A, domain B, average score</i></li>
+	<li>Wiki-cross domain: <i> concept A,definition A, concept B, definition B, domain A, domain B, wikilinks A-to-B, wikilinks B-to-A, average score</i></li>
+	<li>Same domain with very similar automatically-assigned scores: <i> concept A,definition A, concept B, definition B, domain, wikilinks A-to-B, wikilinks B-to-A, assigned score, average score</i></li>
+	<li>Cross domain with very similar automatically-assigned scores: <i> concept A,definition A, concept B, definition B, domain A, domain B, wikilinks A-to-B, wikilinks B-to-A, assigned score, average score</i></li>
+	</ul>
+	Definitions have been extracted from WordNet 3.0, or from Wikipedia for nearly-similar pairs in the Same Domain Subset.
+	<p>
+	<a href="/media/datasets/sdd.csv">Same Domain Subset</a>
+	<br>
+	<a href="/media/datasets/sdd_w.csv">Same Domain Subset, with wikilink information</a>
+	<br>
+	<a href="/media/datasets/xdd_end.csv">Cross-Domain Subset</a>
+	</p><p>
+	Feel free to contact me (daniel.macias.galindo at gmail.com) for questions or requests.
+</div>
