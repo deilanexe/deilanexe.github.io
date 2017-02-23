@@ -1,0 +1,292 @@
+papers:
+  -
+    type: journal
+    author:
+      - Daniel Macias-Galindo
+      - Lawrence Cavedon
+      - Wilson Wong
+      - John Thangarajah
+    title: Effects of Domain on Measures of Semantic Relatedness
+    publication: Journal of the American Society for Information Science and Technology
+    year: 2015
+    month: 4
+    day: 27
+    volume: 66
+    number: 10
+    issn: 2330-1643
+    page-start: 2116
+    page-end: 2131
+  -
+    type: poster
+    author:
+      - Daniel Macias-Galindo
+      - Wilson Wong
+      - John Thangarajah
+      - Lawrence Cavedon
+    title: Coherent Topic Transition in a Conversational Agent
+    conference: INTERSPEECH
+    venue-city: Portland
+    venue-state: OR
+    venue-country: USA
+    month: 8
+    year: 2012
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Lawrence Cavedon
+      - Wilson Wong
+      - John Thangarajah
+    title: Using a lexical dictionary and a Folksonomy to automatically construct domain ontologies
+    conference: Australasian Joint Conference on Artificial Intelligence (AI)
+    venue-city: Perth
+    venue-state: WA
+    venue-country: Australia
+    month: 12
+    year: 2011
+  -
+    type: workshop
+    author:
+      - Daniel Macias-Galindo
+      - Lawrence Cavedon
+      - John Thangarajah
+    title: Building Modular Knowledge Bases for Conversational Agents
+    workshop: Knowledge and Reasoning in Practical Dialogue Systems
+    venue-city: Barcelona
+    venue-country: Spain
+    month: 7
+    year: 2011
+  -
+    type: journal
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Development and Evolution of the Tiancalli Project
+    publication: Supply Chain: The way to flat organization
+    editor:
+      - Yanfang Huo
+      - Fu Jia
+    publisher: In-Teh
+    isbn: 978-953-7619-35-0
+    page-start: 193
+    page-end: 214
+    venue-city: Vienna
+    venue-country: Austria
+    month: 12
+    year: 2008
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Desarrollo de Agentes Inteligentes para la TAC SCM 2007
+    title-translation: Development of Intelligent Agents for the TAC SCM 2007
+    title-translation-src: es
+    title-translation-tgt: en
+    conference: Acts of the XII Conference of the Spanish Association for Artificial Intelligence (CAEPIA-TTIA), by the Universidad de Salamanca
+    page-start: 81
+    page-end: 90
+    venue-city: Salamanca
+    venue-country: Spain
+    month: 11
+    year: 2007
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Tiancalli06: An Agent for the Supply Chain Management Game 2006
+    conference: Proceedings of International Conference on Computational Intelligence for Modelling, Control &amp; Automation (CIMCA)
+    publisher: IEEE
+    month: 11
+    year: 2006
+    isbn: 0-7695-2731-0
+    venue-city: Sydney
+    venue-state: NSW
+    venue-country: Australia
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Statistic Analysis for the Tiancalli Agents on TAC SCM 2005 and 2006
+    conference: 15th International Conference on Computing (CIC)
+    publisher: IEEE Computer Society at the Instituto Polit&eacute;cnico Nacional, M&eacute;xico
+    month: 11
+    year: 2006
+    page-start: 161
+    page-end: 166
+    isbn: 0-7695-2708-6
+    venue-city: Ciudad de M&eacute;xico
+    venue-country: M&eacute;xico
+  -
+    type: conference
+    author:
+      - Lorena Leal Bando
+      - Daniel Macias-Galindo
+      - Javier Nolasco
+      - E. Villa
+      - Darnes Vilari&ntilde;o Ayala
+    title: Dise&ntilde;o e Implementaci&oacute;n de un Algoritmo Paralelo Maestro-Esclavo para Resolver el Problema de la Mochila Multidimensional
+    title-translation: Design and Implementation of a Parallel Master-Slave Algorithm to Solve the Multidimensional Knapsack Problem.
+    title-translation-src: es
+    title-translation-tgt: en
+    conference: 4th International Congress About Innovation and Technological Development (CIINDET)
+    month: 10
+    year: 2006
+    isbn: 968-9152-00-9
+    venue-city: Cuernavaca
+    venue-state: Morelos
+    venue-country: M&eacute;xico
+  -
+    type: workshop
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: An agent for the Supply Chain Management Game 2006
+    workshop: Iberoamerican Workshop on Multi-Agent Systems (IBERAGENTS)
+    month: 10
+    year: 2006
+    venue-city: Riber&acirc;o Preto
+    venue-state: Sao Paulo
+    venue-country: Brazil
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Tiancalli: An Agent for the Supply Chain Management Game 2005
+    conference: La Computaci&ocute;n en Puebla en el Siglo XXI
+    conference-translation: Computer Science in Puebla in the 21st Century
+    publisher: Faculty of Computer Science at the Benem&eacute;rita Universidad Aut&oacute;noma de Puebla
+    page-start: 11
+    page-end: 16
+    month: 11
+    year: 2005
+    isbn-10: 968-863-9052
+    venue-city: Puebla
+    venue-state: Puebla
+    venue-country: M&eacute;xico
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Tiancalli: An Agent for the Supply Chain Management Game 2005
+    conference: La Computaci&ocute;n en Puebla en el Siglo XXI
+    conference-translation: Computer Science in Puebla in the 21st Century
+    publisher: Faculty of Computer Science at the Benem&eacute;rita Universidad Aut&oacute;noma de Puebla
+    page-start: 11
+    page-end: 16
+    month: 11
+    year: 2005
+    isbn-10: 968-863-9052
+    venue-city: Puebla
+    venue-state: Puebla
+    venue-country: M&eacute;xico
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Agent Development for a Supply Chain Management Game
+    conference: Proceedings of the International Conference on Computational Intelligence for Modelling, Control &amp; Automation (CIMCA)
+    publisher: IEEE
+    page-start: 968
+    page-end: 975
+    month: 11
+    year: 2005
+    isbn-10: 0-7695-2504-0
+    venue-city: Vienna
+    venue-country: Austria
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Construcci&oacute;n de Agentes para el TAC SCM Game 2005
+    title-translation: Agent Development for the TAC SCM Game 2005
+    title-translation-src: es
+    title-translation-tgt: en
+    conference: Research on Computing Science: Advances in Computer Science in Mexico
+    publisher: Computer Research Center
+    editor: Instituto Polit&eacute;cnico Nacional
+    page-start: 159
+    page-end: 170
+    month: 5
+    year: 2005
+    issn: 1665-9899
+    venue-city: Ciudad de M&eacute;xico
+    venue-country: M&eacute;xico
+  -
+    type: conference
+    author:
+      - Daniel Macias-Galindo
+      - Darnes Vilari&ntilde;o Ayala
+      - Fabiola L&ocute;pez y L&ocute;pez
+    title: Hacia la Implementaci&oacute;n de Agentes para la Competencia TAC SCM 2005
+    title-translation: Towards implementing Agents for the TAC SCM Game 2005
+    title-translation-src: es
+    title-translation-tgt: en
+    conference: 2nd National Congress of Computer Sciences
+    publisher: Faculty of Computer Sciences of the Benem&eacute;rita Universidad Aut&oacute;noma de Puebla
+    month: 11
+    year: 2004
+    isbn: 968 863 798 X
+    venue-city: Puebla
+    venue-state: Puebla
+    venue-country: M&eacute;xico
+    page-start: 293
+    page-end: 298
+  -
+    type: conference
+    author:
+      - Darnes Vilari&ntilde;o Ayala
+      - Mar&icute;a Somodevilla
+      - Lorena Leal Bando
+      - Nettie L&ocute;pez
+      - Daniel Macias-Galindo
+      - Brenda Ruvalcaba
+    title: Utilizaci&oacute;n de Ventanas de Tiempo para Resolver un Problema de Transporte con Disponibilidad Limitada e Ilimitada de Recursos
+    title-translation: Usage of Time Windows to Solve a Transport Problem with Limited and Unlimited Resource Availability
+    title-translation-src: es
+    title-translation-tgt: en
+    conference: 2nd National Congress of Computer Sciences
+    publisher: Faculty of Computer Sciences of the Benem&eacute;rita Universidad Aut&oacute;noma de Puebla
+    month: 11
+    year: 2004
+    isbn: 968 863 798 X
+    venue-city: Puebla
+    venue-state: Puebla
+    venue-country: M&eacute;xico
+    page-start: 28
+    page-end: 34
+  -
+    type: conference
+    author:
+      - Darnes Vilari&ntilde;o Ayala
+      - Mar&icute;a Osorio
+      - Lorena Leal Bando
+      - Nettie L&ocute;pez
+      - Daniel Mac&icute;as-Galindo
+    title: Heur&iacute;sticas Alternativas para el Problema Binario Puro Lineal
+    title-translation: Alternative Heuristics for the Binary-Pure Linear Problem
+    page-start: 35
+    page-end: 42
+    conference: 2nd National Congress of Computer Sciences
+    publisher: Faculty of Computer Sciences of the Benem&eacute;rita Universidad Aut&oacute;noma de Puebla
+    month: 11
+    year: 2004
+    isbn: 968 863 798 X
+    venue-city: Puebla
+    venue-state: Puebla
+    venue-country: M&eacute;xico
