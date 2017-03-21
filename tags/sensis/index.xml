@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensis on My Site</title>
+    <link>https://deilanexe.github.io/tags/sensis/index.xml</link>
+    <description>Recent content in Sensis on My Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/sensis/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SQUAT II (Jul 2016-Present)</title>
+      <link>https://deilanexe.github.io/project/SQUAT_II/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/SQUAT_II/</guid>
+      <description>&lt;p&gt;The Search Quality Assessment Tool, or SQUAT, is an internally-developed
+framework where search analysts can debug queries to their search platform. In
+SQUAT, analysts create &lt;em&gt;gold sets&lt;/em&gt;, which are collections of user &lt;em&gt;queries&lt;/em&gt; with
+a set of expected results, also called &lt;em&gt;expectations&lt;/em&gt;. In its second
+implementation, SQUAT enables map-based search, gold set result comparisons, and
+an API to connect to that provides the endpoints required to operate these
+functions.&lt;/p&gt;
+
+&lt;p&gt;As part of my contribution to SQUAT II, I got involved with the redesign of the
+user interface, including some of the functional components such as the creation
+of gold sets and importing/exporting gold sets into and from spreadsheets for
+easy operation outside of the tool. I was also in charge of documenting cards for an offshore
+developer who is in charge of implementing these changes.&lt;/p&gt;
+
+&lt;p&gt;SQUAT II is likely to have a release outside of Sensis sometime during 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chatbots and Voice-operated services (Jan 2017 - Present)</title>
+      <link>https://deilanexe.github.io/project/Chatbots_and_Voice_services/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/Chatbots_and_Voice_services/</guid>
+      <description>&lt;p&gt;Since my beginnings in the area of computing, I have been interested in
+implementing systems with artificial intelligence that support people in their
+everyday lives. Conversational systems was an area that I tapped into during my
+PhD research, but not to the extent that I would have liked. However, this has
+changed during my stay in Sensis, as we started prototyping some chatbots and
+capabilities for users to interact with via voice.&lt;/p&gt;
+
+&lt;p&gt;Some of the prototypes I have worked with include: skills for Amazon Alexa,
+actions for Google Home, chatbots for Facebook Messenger and Slack. The
+applications implemented range from search capabilities through our Sensis API,
+to work-related tasks such as validating input information that we require when
+servicing queries from sales representatives regarding our search engine. I have
+implemented these capabilities in Python Flask APIs using Natural Language
+Understanding platforms such as LUIS, API.ai and recast.ai.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Network (Ontology 2.0; Mar-Sep 2016)</title>
+      <link>https://deilanexe.github.io/project/Knowledge_Network/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/Knowledge_Network/</guid>
+      <description>&lt;p&gt;One of the major challenges with the Sensis Ontology program was the scale of
+the proof-of-concept system against the final production version, which was
+smaller in comparison. Consequently, some of the tasks of the construction
+process that were originally implemented sequentially could not be completed
+even in finite time.&lt;/p&gt;
+
+&lt;p&gt;The second version of the Sensis Ontology, which was also rebranded as the
+&amp;ldquo;Knowledge Network&amp;rdquo;, consisted of re-thinking the original implementation that
+produced the database contents as tasks that could be executed in parallel. In
+addition to this, we reviewed and simplified some of these tasks to reduce
+dependencies and speed up the overall process to produce the network.&lt;/p&gt;
+
+&lt;p&gt;In the end, the process to construct the Knowledge Network passed from infinite
+time to less than six months (as with the original PoC), and a ten-fold increase
+in performance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ontology Opportunities (Jul 2015 - Jun 2016)</title>
+      <link>https://deilanexe.github.io/project/Ontology_Opportunities/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/Ontology_Opportunities/</guid>
+      <description>&lt;p&gt;With the Sensis Ontology in production, the next step consisted of demonstrating
+the capabilities of our product to other business units within Sensis. This
+required face-to-face conversations with potential stakeholders, understanding
+their pain points and working towards solutions for them that could use our
+product.&lt;/p&gt;
+
+&lt;p&gt;By making a collection of endpoints available within the company, I was able to
+ask around the company for potential stakeholders with areas of improvement that
+could be addressed by developing quick &amp;ldquo;proof-of-concepts&amp;rdquo;. Some of these
+prototypes are the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Category Suggestion: As Yellow Pages operates under the existence of
+&amp;ldquo;headings&amp;rdquo;, currently the process to assign a heading is manual and requires
+expertise of sales representatives on 2000+ categories where businesses can be
+classified into. Our PoC uses small snippets of text and information in the
+Sensis Ontology for suggesting the best heading an advertiser can appear into in
+order to be relevant. This prototype has been tested by different business units
+so far and internally within the Search and Knowledge Discovery team.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Keyword Validation: Another manual process consists of assigning keywords to
+advertisers&amp;rsquo; &lt;em&gt;Business Profile Pages&lt;/em&gt; that help them distinguish themselves from
+their competitors. Our prototype used information available for each advertiser
+in the Sensis Ontology to
+populate an initial set of relevant keywords. The original concept of this
+project has evolved over the past months and will be put into production in
+2017.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Website Leads: As part of the Marketing Acquisition strategy, we implemented
+a prototype that collected information from advertisers&amp;rsquo; websites based on
+quality display metrics, such as Google&amp;rsquo;s Mobile Friendly Test. This tool was
+mostly used as a prototype, but was run as such intermittently over 2016, with
+casual specific requests over two more months.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Product Search: Sensis Ontology can be used to classify and detect concepts
+representing brands, products and services. With classifications openly
+available in resources like Wikipedia, we could use these to arrange our
+concepts, thus enabling a new search
+capability that extends what the Sensis API can currently achieve. Product
+Search was tested with data from &lt;a href=&#34;http://www.skip.com.au&#34; target=&#34;_blank&#34;&gt;Skip&lt;/a&gt;, but due to
+clashing priorities was never put into production.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search Capability program (Oct 2010 - Present)</title>
+      <link>https://deilanexe.github.io/project/Search_Capability_program/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/Search_Capability_program/</guid>
+      <description>&lt;p&gt;The Search Capability Program has built a heavily-tuned SOLR-based search engine
+  currently servicing millions of requests per day, serving up highly relevant
+  search results for Business, Government and Points of Interest for Yellow
+  Pages, WhereIs (Mobile) and numerous external partnerships.&lt;/p&gt;
+
+&lt;p&gt;Working with the SAPI development team, the Search Capability team consists
+  primarily of Data Scientists who leverage interaction data and content from
+  across Sensis (Yellow Pages, White Pages and WhereIs) to automate the
+  measurement and improvement of the SAPI Search algorithm and associated
+  Ontologies for a dramatically improved User Experience and Advertiser ROI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensis Ontology Program (Mar 2013 - Jun 2014)</title>
+      <link>https://deilanexe.github.io/project/Sensis_Ontologies/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/Sensis_Ontologies/</guid>
+      <description>&lt;p&gt;The Sensis Ontology Program is an enabler for richer classification of Business,
+Government and Geospatial content and data across Sensis which aims to move
+classification away from manually managed print heading structures and into
+automated digital clusters of terms, concepts and categories.&lt;/p&gt;
+
+&lt;p&gt;This is designed to assist in providing fresher, more accurate and deeper
+content for more accurate retrieval of listings via SAPI Search, but also
+provides a significant boost in supporting data for business intelligence and
+data science teams.&lt;/p&gt;
+
+&lt;p&gt;This also extends on the existing Business Type Search foundation to enable more
+granular retrieval of listings based on Brand and Product information.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

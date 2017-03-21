@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on My Site</title>
+    <link>https://deilanexe.github.io/tags/personal/index.xml</link>
+    <description>Recent content in Personal on My Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>what-to-wear</title>
+      <link>https://deilanexe.github.io/project/what-to-wear/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/what-to-wear/</guid>
+      <description>&lt;p&gt;&lt;em&gt;what-to-wear&lt;/em&gt; is an application with the purpose of storing my clothes and when
+I use them. It is comprised of a frontend developed in HTML, AngularJS and
+JavaScript (available on request), and a
+&lt;a href=&#34;https://github.com/deilanexe/what-to-wear-api&#34; target=&#34;_blank&#34;&gt;backend API in Python Flask&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While it is mostly a log application with the idea of developing different
+skills, my idea is to extend this to implement
+machine learning services like proactively suggesting what garments to wear at
+a given day.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
