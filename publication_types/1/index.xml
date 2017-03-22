@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on My Site</title>
+    <link>https://deilanexe.github.io/publication_types/1/index.xml</link>
+    <description>Recent content in 1 on My Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using a lexical dictionary and a Folksonomy to automatically construct domain ontologies</title>
+      <link>https://deilanexe.github.io/publication/Macias-Galindo_et_al_2011/</link>
+      <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/publication/Macias-Galindo_et_al_2011/</guid>
+      <description>&lt;p&gt;In Perth, WA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Modular Knowledge Bases for Conversational Agents</title>
+      <link>https://deilanexe.github.io/publication/Macias-Galindo_et_al_2011a/</link>
+      <pubDate>Tue, 19 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/publication/Macias-Galindo_et_al_2011a/</guid>
+      <description>&lt;p&gt;Workshop during IJCAI&amp;rsquo;11, in Barcelona, Spain.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

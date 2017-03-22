@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on My Site</title>
+    <link>https://deilanexe.github.io/publication_types/2/index.xml</link>
+    <description>Recent content in 2 on My Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Effects of Domain on Measures of Semantic Relatedness</title>
+      <link>https://deilanexe.github.io/publication/Macias_et_al_2015/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/publication/Macias_et_al_2015/</guid>
+      <description>&lt;p&gt;Volume 66, Number 10. Pages: 2116-2131. ISSN: 2330-1643.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development and Evolution of the Tiancalli Project</title>
+      <link>https://deilanexe.github.io/publication/Macias-Galindo_et_al_2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/publication/Macias-Galindo_et_al_2008/</guid>
+      <description>&lt;p&gt;Editors: Yanfang Huo, Fu Jia. Publisher: In-Teh. ISBN: 978-953-7619-35-0. Pages 193-214. Vienna, Austria.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

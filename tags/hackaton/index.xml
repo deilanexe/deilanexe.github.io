@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackaton on My Site</title>
+    <link>https://deilanexe.github.io/tags/hackaton/index.xml</link>
+    <description>Recent content in Hackaton on My Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/hackaton/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GovHack 2016 (Little Steps aka MOLE)</title>
+      <link>https://deilanexe.github.io/project/GovHack__MOLE/</link>
+      <pubDate>Thu, 16 Mar 2017 19:58:33 +1100</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/GovHack__MOLE/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This project will develop a prototype, responsive and visually simple website
+that can help newly arrived migrants, refugees and asylum seekers navigate the
+complexities of settlement in Australia and connect to communities.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As part of the team I was in charge of extracting information from different
+data sources, which also involved diverse formats like CSV, plain text and JSON.
+Also I implemented an API in Python Flask that was used to query and return
+information from our consolidated data source. I was also involved, to a minor
+degree, with the UI that was used for the final prototype. The code I developed
+is shared through my
+&lt;a href=&#34;https://github.com/deilanexe/govhack-mole-api&#34; target=&#34;_blank&#34;&gt;Github account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RHoK: Changing Places (Jun 2016)</title>
+      <link>https://deilanexe.github.io/project/RHoK__Jun_2016/</link>
+      <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/RHoK__Jun_2016/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.rhokaustralia.org/#welcome&#34; target=&#34;_blank&#34;&gt;Random Hacks of Kindness&lt;/a&gt; is &amp;ldquo;a
+community of technologists who solve problems for purpose driven organisations&amp;rdquo;.
+In the Winter 2016 2-day hackaton, I joined the team
+&lt;a href=&#34;http://changingplaces.org.au/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Changing Places&amp;rdquo;&lt;/a&gt;, which had the following
+tasks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;completing their WordPress website; and,&lt;/li&gt;
+&lt;li&gt;proposing new ways for users to interact with them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I got involved in the second task, and proposed different approaches for fast
+communication under the assumption that many carers carry a smart phone with
+them. The proposal used Twitter, as well as QR codes to enable such channels.
+Our team was the winner team of the hackaton.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
