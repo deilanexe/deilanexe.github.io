@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digs on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/dig/index.xml</link>
+    <description>Recent content in Digs on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/dig/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Horizon Zero Dawn</title>
+      <link>https://deilanexe.github.io/dig/Horizon_Zero_Dawn__PS4/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/Horizon_Zero_Dawn__PS4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravity Rush 2</title>
+      <link>https://deilanexe.github.io/dig/Gravity_Rush_2__PS4/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/Gravity_Rush_2__PS4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final Fantasy XV</title>
+      <link>https://deilanexe.github.io/dig/Final_Fantasy_XV__PS4/</link>
+      <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/Final_Fantasy_XV__PS4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Last of Us Remastered</title>
+      <link>https://deilanexe.github.io/dig/The_Last_of_Us__PS4/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/The_Last_of_Us__PS4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WATCH_DOGS</title>
+      <link>https://deilanexe.github.io/dig/Watch_Dogs__PS4/</link>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/Watch_Dogs__PS4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danganronpa: Trigger Happy Havok</title>
+      <link>https://deilanexe.github.io/dig/Danganronpa_Trigger_Happy_Havok__PSVita/</link>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/Danganronpa_Trigger_Happy_Havok__PSVita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncharted: Golden Abyss</title>
+      <link>https://deilanexe.github.io/dig/Uncharted_Golden_Abyss__PSVita/</link>
+      <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/Uncharted_Golden_Abyss__PSVita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Witcher 3: Wild Hunt</title>
+      <link>https://deilanexe.github.io/dig/The_Witcher_3_Wild_Hunt__PC/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/The_Witcher_3_Wild_Hunt__PC/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

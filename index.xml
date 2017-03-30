@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Site on My Site</title>
+    <title>My Site - Daniel Macias-Galindo on My Site - Daniel Macias-Galindo</title>
     <link>https://deilanexe.github.io/index.xml</link>
-    <description>Recent content in My Site on My Site</description>
+    <description>Recent content in My Site - Daniel Macias-Galindo on My Site - Daniel Macias-Galindo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Mar 2017 12:13:35 +1100</lastBuildDate>
@@ -34,6 +34,15 @@ developer who is in charge of implementing these changes.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Horizon Zero Dawn</title>
+      <link>https://deilanexe.github.io/dig/Horizon_Zero_Dawn__PS4/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/Horizon_Zero_Dawn__PS4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GovHack 2016 (Little Steps aka MOLE)</title>
       <link>https://deilanexe.github.io/project/GovHack__MOLE/</link>
       <pubDate>Thu, 16 Mar 2017 19:58:33 +1100</pubDate>
@@ -54,7 +63,7 @@ is shared through my
     </item>
     
     <item>
-      <title>Chatbots and Voice-operated services (Jan 2017 - Present)</title>
+      <title>Chatbots and Voice-operated Assistants (Jan 2017 - Present)</title>
       <link>https://deilanexe.github.io/project/Chatbots_and_Voice_services/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -77,160 +86,48 @@ Understanding platforms such as LUIS, API.ai and recast.ai.&lt;/p&gt;
     </item>
     
     <item>
-      <title>RHoK: Changing Places (Jun 2016)</title>
-      <link>https://deilanexe.github.io/project/RHoK__Jun_2016/</link>
-      <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
+      <title>Gravity Rush 2</title>
+      <link>https://deilanexe.github.io/dig/Gravity_Rush_2__PS4/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/RHoK__Jun_2016/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.rhokaustralia.org/#welcome&#34; target=&#34;_blank&#34;&gt;Random Hacks of Kindness&lt;/a&gt; is &amp;ldquo;a
-community of technologists who solve problems for purpose driven organisations&amp;rdquo;.
-In the Winter 2016 2-day hackaton, I joined the team
-&lt;a href=&#34;http://changingplaces.org.au/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Changing Places&amp;rdquo;&lt;/a&gt;, which had the following
-tasks:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;completing their WordPress website; and,&lt;/li&gt;
-&lt;li&gt;proposing new ways for users to interact with them.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I got involved in the second task, and proposed different approaches for fast
-communication under the assumption that many carers carry a smart phone with
-them. The proposal used Twitter, as well as QR codes to enable such channels.
-Our team was the winner team of the hackaton.&lt;/p&gt;
-</description>
+      <guid>https://deilanexe.github.io/dig/Gravity_Rush_2__PS4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Knowledge Network (Ontology 2.0; Mar-Sep 2016)</title>
-      <link>https://deilanexe.github.io/project/Knowledge_Network/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <title>Final Fantasy XV</title>
+      <link>https://deilanexe.github.io/dig/Final_Fantasy_XV__PS4/</link>
+      <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/Knowledge_Network/</guid>
-      <description>&lt;p&gt;One of the major challenges with the Sensis Ontology program was the scale of
-the proof-of-concept system against the final production version, which was
-smaller in comparison. Consequently, some of the tasks of the construction
-process that were originally implemented sequentially could not be completed
-even in finite time.&lt;/p&gt;
-
-&lt;p&gt;The second version of the Sensis Ontology, which was also rebranded as the
-&amp;ldquo;Knowledge Network&amp;rdquo;, consisted of re-thinking the original implementation that
-produced the database contents as tasks that could be executed in parallel. In
-addition to this, we reviewed and simplified some of these tasks to reduce
-dependencies and speed up the overall process to produce the network.&lt;/p&gt;
-
-&lt;p&gt;In the end, the process to construct the Knowledge Network passed from infinite
-time to less than six months (as with the original PoC), and a ten-fold increase
-in performance.&lt;/p&gt;
-</description>
+      <guid>https://deilanexe.github.io/dig/Final_Fantasy_XV__PS4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>what-to-wear</title>
-      <link>https://deilanexe.github.io/project/what-to-wear/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>The Last of Us Remastered</title>
+      <link>https://deilanexe.github.io/dig/The_Last_of_Us__PS4/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/what-to-wear/</guid>
-      <description>&lt;p&gt;&lt;em&gt;what-to-wear&lt;/em&gt; is an application with the purpose of storing my clothes and when
-I use them. It is comprised of a frontend developed in HTML, AngularJS and
-JavaScript (available on request), and a
-&lt;a href=&#34;https://github.com/deilanexe/what-to-wear-api&#34; target=&#34;_blank&#34;&gt;backend API in Python Flask&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;While it is mostly a log application with the idea of developing different
-skills, my idea is to extend this to implement
-machine learning services like proactively suggesting what garments to wear at
-a given day.&lt;/p&gt;
-</description>
+      <guid>https://deilanexe.github.io/dig/The_Last_of_Us__PS4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Ontology Opportunities (Jul 2015 - Jun 2016)</title>
-      <link>https://deilanexe.github.io/project/Ontology_Opportunities/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <title>WATCH_DOGS</title>
+      <link>https://deilanexe.github.io/dig/Watch_Dogs__PS4/</link>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/Ontology_Opportunities/</guid>
-      <description>&lt;p&gt;With the Sensis Ontology in production, the next step consisted of demonstrating
-the capabilities of our product to other business units within Sensis. This
-required face-to-face conversations with potential stakeholders, understanding
-their pain points and working towards solutions for them that could use our
-product.&lt;/p&gt;
-
-&lt;p&gt;By making a collection of endpoints available within the company, I was able to
-ask around the company for potential stakeholders with areas of improvement that
-could be addressed by developing quick &amp;ldquo;proof-of-concepts&amp;rdquo;. Some of these
-prototypes are the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Category Suggestion: As Yellow Pages operates under the existence of
-&amp;ldquo;headings&amp;rdquo;, currently the process to assign a heading is manual and requires
-expertise of sales representatives on 2000+ categories where businesses can be
-classified into. Our PoC uses small snippets of text and information in the
-Sensis Ontology for suggesting the best heading an advertiser can appear into in
-order to be relevant. This prototype has been tested by different business units
-so far and internally within the Search and Knowledge Discovery team.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Keyword Validation: Another manual process consists of assigning keywords to
-advertisers&amp;rsquo; &lt;em&gt;Business Profile Pages&lt;/em&gt; that help them distinguish themselves from
-their competitors. Our prototype used information available for each advertiser
-in the Sensis Ontology to
-populate an initial set of relevant keywords. The original concept of this
-project has evolved over the past months and will be put into production in
-2017.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Website Leads: As part of the Marketing Acquisition strategy, we implemented
-a prototype that collected information from advertisers&amp;rsquo; websites based on
-quality display metrics, such as Google&amp;rsquo;s Mobile Friendly Test. This tool was
-mostly used as a prototype, but was run as such intermittently over 2016, with
-casual specific requests over two more months.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Product Search: Sensis Ontology can be used to classify and detect concepts
-representing brands, products and services. With classifications openly
-available in resources like Wikipedia, we could use these to arrange our
-concepts, thus enabling a new search
-capability that extends what the Sensis API can currently achieve. Product
-Search was tested with data from &lt;a href=&#34;http://www.skip.com.au&#34; target=&#34;_blank&#34;&gt;Skip&lt;/a&gt;, but due to
-clashing priorities was never put into production.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://deilanexe.github.io/dig/Watch_Dogs__PS4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Search Capability program (Oct 2010 - Present)</title>
-      <link>https://deilanexe.github.io/project/Search_Capability_program/</link>
-      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      <title>White Pages Categorisation (Nov 2016-Present)</title>
+      <link>https://deilanexe.github.io/project/White_Pages_Classification/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/Search_Capability_program/</guid>
-      <description>&lt;p&gt;The Search Capability Program has built a heavily-tuned SOLR-based search engine
-  currently servicing millions of requests per day, serving up highly relevant
-  search results for Business, Government and Points of Interest for Yellow
-  Pages, WhereIs (Mobile) and numerous external partnerships.&lt;/p&gt;
-
-&lt;p&gt;Working with the SAPI development team, the Search Capability team consists
-  primarily of Data Scientists who leverage interaction data and content from
-  across Sensis (Yellow Pages, White Pages and WhereIs) to automate the
-  measurement and improvement of the SAPI Search algorithm and associated
-  Ontologies for a dramatically improved User Experience and Advertiser ROI.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sensis Ontology Program (Mar 2013 - Jun 2014)</title>
-      <link>https://deilanexe.github.io/project/Sensis_Ontologies/</link>
-      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://deilanexe.github.io/project/Sensis_Ontologies/</guid>
-      <description>&lt;p&gt;The Sensis Ontology Program is an enabler for richer classification of Business,
-Government and Geospatial content and data across Sensis which aims to move
-classification away from manually managed print heading structures and into
-automated digital clusters of terms, concepts and categories.&lt;/p&gt;
-
-&lt;p&gt;This is designed to assist in providing fresher, more accurate and deeper
-content for more accurate retrieval of listings via SAPI Search, but also
-provides a significant boost in supporting data for business intelligence and
-data science teams.&lt;/p&gt;
-
-&lt;p&gt;This also extends on the existing Business Type Search foundation to enable more
-granular retrieval of listings based on Brand and Product information.&lt;/p&gt;
-</description>
+      <guid>https://deilanexe.github.io/project/White_Pages_Classification/</guid>
+      <description></description>
     </item>
     
   </channel>

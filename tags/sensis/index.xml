@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sensis on My Site</title>
+    <title>Sensis on My Site - Daniel Macias-Galindo</title>
     <link>https://deilanexe.github.io/tags/sensis/index.xml</link>
-    <description>Recent content in Sensis on My Site</description>
+    <description>Recent content in Sensis on My Site - Daniel Macias-Galindo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/tags/sensis/index.xml" rel="self" type="application/rss+xml" />
@@ -33,7 +33,7 @@ developer who is in charge of implementing these changes.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Chatbots and Voice-operated services (Jan 2017 - Present)</title>
+      <title>Chatbots and Voice-operated Assistants (Jan 2017 - Present)</title>
       <link>https://deilanexe.github.io/project/Chatbots_and_Voice_services/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -53,6 +53,15 @@ servicing queries from sales representatives regarding our search engine. I have
 implemented these capabilities in Python Flask APIs using Natural Language
 Understanding platforms such as LUIS, API.ai and recast.ai.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>White Pages Categorisation (Nov 2016-Present)</title>
+      <link>https://deilanexe.github.io/project/White_Pages_Classification/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/White_Pages_Classification/</guid>
+      <description></description>
     </item>
     
     <item>

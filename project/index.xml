@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on My Site</title>
+    <title>Projects on My Site - Daniel Macias-Galindo</title>
     <link>https://deilanexe.github.io/project/index.xml</link>
-    <description>Recent content in Projects on My Site</description>
+    <description>Recent content in Projects on My Site - Daniel Macias-Galindo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Apr 2017 00:00:00 +0000</lastBuildDate>
@@ -54,7 +54,7 @@ is shared through my
     </item>
     
     <item>
-      <title>Chatbots and Voice-operated services (Jan 2017 - Present)</title>
+      <title>Chatbots and Voice-operated Assistants (Jan 2017 - Present)</title>
       <link>https://deilanexe.github.io/project/Chatbots_and_Voice_services/</link>
       <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -73,6 +73,35 @@ to work-related tasks such as validating input information that we require when
 servicing queries from sales representatives regarding our search engine. I have
 implemented these capabilities in Python Flask APIs using Natural Language
 Understanding platforms such as LUIS, API.ai and recast.ai.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>White Pages Categorisation (Nov 2016-Present)</title>
+      <link>https://deilanexe.github.io/project/White_Pages_Classification/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/White_Pages_Classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular 2 Hack (hosted by General Assembly &amp; SSW)</title>
+      <link>https://deilanexe.github.io/project/Angular_2_hack/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/Angular_2_hack/</guid>
+      <description>&lt;p&gt;I participated in this half-a-day crash-course hosted by General Assembly to
+learn the basics on Angular 2. Given that &lt;em&gt;what-to-wear&lt;/em&gt; was a personal project
+already running in AngularJS, me and my friend
+&lt;a href=&#34;https://ma-al.github.io/&#34; target=&#34;_blank&#34;&gt;Mardi&lt;/a&gt; decided to work towards
+starting its migration to Angular 2. We struggled a bit to make it work and
+reducing dependencies towards using PHP (which set the basis for developing
+the &lt;a href=&#34;https://github.com/deilanexe/what-to-wear-api&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;what-to-wear API&lt;/em&gt;&lt;/a&gt;
+project).&lt;/p&gt;
+
+&lt;p&gt;We ended up sharing the top prize as shown
+&lt;a href=&#34;https://twitter.com/SSW_TV/status/784639225434107904&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -96,7 +125,8 @@ tasks:&lt;/p&gt;
 &lt;p&gt;I got involved in the second task, and proposed different approaches for fast
 communication under the assumption that many carers carry a smart phone with
 them. The proposal used Twitter, as well as QR codes to enable such channels.
-Our team was the winner team of the hackaton.&lt;/p&gt;
+Our team was the winner team of the hackaton. Proof of our achievement is
+&lt;a href=&#34;https://twitter.com/acd_eddie/status/739345009435017217/photo/1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
