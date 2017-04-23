@@ -10,27 +10,12 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>SQUAT II (Jul 2016-Present)</title>
-      <link>https://deilanexe.github.io/project/SQUAT_II/</link>
-      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <title>final_fantasy_xv_completed</title>
+      <link>https://deilanexe.github.io/post/final_fantasy_xv_completed/</link>
+      <pubDate>Sat, 22 Apr 2017 20:48:56 +1000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/SQUAT_II/</guid>
-      <description>&lt;p&gt;The Search Quality Assessment Tool, or SQUAT, is an internally-developed
-framework where search analysts can debug queries to their search platform. In
-SQUAT, analysts create &lt;em&gt;gold sets&lt;/em&gt;, which are collections of user &lt;em&gt;queries&lt;/em&gt; with
-a set of expected results, also called &lt;em&gt;expectations&lt;/em&gt;. In its second
-implementation, SQUAT enables map-based search, gold set result comparisons, and
-an API to connect to that provides the endpoints required to operate these
-functions.&lt;/p&gt;
-
-&lt;p&gt;As part of my contribution to SQUAT II, I got involved with the redesign of the
-user interface, including some of the functional components such as the creation
-of gold sets and importing/exporting gold sets into and from spreadsheets for
-easy operation outside of the tool. I was also in charge of documenting cards for an offshore
-developer who is in charge of implementing these changes.&lt;/p&gt;
-
-&lt;p&gt;SQUAT II is likely to have a release outside of Sensis sometime during 2017.&lt;/p&gt;
-</description>
+      <guid>https://deilanexe.github.io/post/final_fantasy_xv_completed/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -59,29 +44,6 @@ information from our consolidated data source. I was also involved, to a minor
 degree, with the UI that was used for the final prototype. The code I developed
 is shared through my
 &lt;a href=&#34;https://github.com/deilanexe/govhack-mole-api&#34; target=&#34;_blank&#34;&gt;Github account&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chatbots and Voice-operated Assistants (Jan 2017 - Present)</title>
-      <link>https://deilanexe.github.io/project/Chatbots_and_Voice_services/</link>
-      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://deilanexe.github.io/project/Chatbots_and_Voice_services/</guid>
-      <description>&lt;p&gt;Since my beginnings in the area of computing, I have been interested in
-implementing systems with artificial intelligence that support people in their
-everyday lives. Conversational systems was an area that I tapped into during my
-PhD research, but not to the extent that I would have liked. However, this has
-changed during my stay in Sensis, as we started prototyping some chatbots and
-capabilities for users to interact with via voice.&lt;/p&gt;
-
-&lt;p&gt;Some of the prototypes I have worked with include: skills for Amazon Alexa,
-actions for Google Home, chatbots for Facebook Messenger and Slack. The
-applications implemented range from search capabilities through our Sensis API,
-to work-related tasks such as validating input information that we require when
-servicing queries from sales representatives regarding our search engine. I have
-implemented these capabilities in Python Flask APIs using Natural Language
-Understanding platforms such as LUIS, API.ai and recast.ai.&lt;/p&gt;
 </description>
     </item>
     
@@ -122,12 +84,32 @@ Understanding platforms such as LUIS, API.ai and recast.ai.&lt;/p&gt;
     </item>
     
     <item>
-      <title>White Pages Categorisation (Nov 2016-Present)</title>
-      <link>https://deilanexe.github.io/project/White_Pages_Classification/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Batman: Arkham Knight</title>
+      <link>https://deilanexe.github.io/dig/Batman__Arkham_Knight__PS4/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/White_Pages_Classification/</guid>
+      <guid>https://deilanexe.github.io/dig/Batman__Arkham_Knight__PS4/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Angular 2 Hack (hosted by General Assembly &amp; SSW)</title>
+      <link>https://deilanexe.github.io/project/Angular_2_hack/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/Angular_2_hack/</guid>
+      <description>&lt;p&gt;I participated in this half-a-day crash-course hosted by General Assembly to
+learn the basics on Angular 2. Given that &lt;em&gt;what-to-wear&lt;/em&gt; was a personal project
+already running in AngularJS, me and my friend
+&lt;a href=&#34;https://ma-al.github.io/&#34; target=&#34;_blank&#34;&gt;Mardi&lt;/a&gt; decided to work towards
+starting its migration to Angular 2. We struggled a bit to make it work and
+reducing dependencies towards using PHP (which set the basis for developing
+the &lt;a href=&#34;https://github.com/deilanexe/what-to-wear-api&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;what-to-wear API&lt;/em&gt;&lt;/a&gt;
+project).&lt;/p&gt;
+
+&lt;p&gt;We ended up sharing the top prize as shown
+&lt;a href=&#34;https://twitter.com/SSW_TV/status/784639225434107904&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

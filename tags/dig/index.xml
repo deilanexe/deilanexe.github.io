@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dig on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/tags/dig/index.xml</link>
+    <description>Recent content in Dig on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/dig/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>final_fantasy_xv_completed</title>
+      <link>https://deilanexe.github.io/post/final_fantasy_xv_completed/</link>
+      <pubDate>Sat, 22 Apr 2017 20:48:56 +1000</pubDate>
+      
+      <guid>https://deilanexe.github.io/post/final_fantasy_xv_completed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
