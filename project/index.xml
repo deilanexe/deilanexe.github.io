@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on My Site - Daniel Macias-Galindo</title>
-    <link>https://deilanexe.github.io/project/index.xml</link>
+    <link>https://deilanexe.github.io/project/</link>
     <description>Recent content in Projects on My Site - Daniel Macias-Galindo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-au</language>
     <lastBuildDate>Thu, 16 Mar 2017 19:58:33 +1100</lastBuildDate>
-    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GovHack 2016 (Little Steps aka MOLE)</title>
-      <link>https://deilanexe.github.io/project/GovHack__MOLE/</link>
+      <link>https://deilanexe.github.io/project/govhack__mole/</link>
       <pubDate>Thu, 16 Mar 2017 19:58:33 +1100</pubDate>
       
-      <guid>https://deilanexe.github.io/project/GovHack__MOLE/</guid>
+      <guid>https://deilanexe.github.io/project/govhack__mole/</guid>
       <description>&lt;p&gt;&lt;em&gt;This project will develop a prototype, responsive and visually simple website
 that can help newly arrived migrants, refugees and asylum seekers navigate the
 complexities of settlement in Australia and connect to communities.&lt;/em&gt;&lt;/p&gt;
@@ -31,10 +31,10 @@ is shared through my
     
     <item>
       <title>Angular 2 Hack (hosted by General Assembly &amp; SSW)</title>
-      <link>https://deilanexe.github.io/project/Angular_2_hack/</link>
+      <link>https://deilanexe.github.io/project/angular_2_hack/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/Angular_2_hack/</guid>
+      <guid>https://deilanexe.github.io/project/angular_2_hack/</guid>
       <description>&lt;p&gt;I participated in this half-a-day crash-course hosted by General Assembly to
 learn the basics on Angular 2. Given that &lt;em&gt;what-to-wear&lt;/em&gt; was a personal project
 already running in AngularJS, me and my friend
@@ -51,10 +51,10 @@ project).&lt;/p&gt;
     
     <item>
       <title>RHoK: Changing Places (Jun 2016)</title>
-      <link>https://deilanexe.github.io/project/RHoK__Jun_2016/</link>
+      <link>https://deilanexe.github.io/project/rhok__jun_2016/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/RHoK__Jun_2016/</guid>
+      <guid>https://deilanexe.github.io/project/rhok__jun_2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.rhokaustralia.org/#welcome&#34; target=&#34;_blank&#34;&gt;Random Hacks of Kindness&lt;/a&gt; is &amp;ldquo;a
 community of technologists who solve problems for purpose driven organisations&amp;rdquo;.
 In the Winter 2016 2-day hackaton, I joined the team
@@ -93,42 +93,108 @@ a given day.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Search Capability program (Oct 2010 - Present)</title>
-      <link>https://deilanexe.github.io/project/Search_Capability_program/</link>
+      <title>Search Capability program (Jul 2015 - Present)</title>
+      <link>https://deilanexe.github.io/project/search_capability_program/</link>
       <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/Search_Capability_program/</guid>
-      <description>&lt;p&gt;The Search Capability Program has built a heavily-tuned SOLR-based search engine
-  currently servicing millions of requests per day, serving up highly relevant
-  search results for Business, Government and Points of Interest for Yellow
-  Pages, WhereIs (Mobile) and numerous external partnerships.&lt;/p&gt;
+      <guid>https://deilanexe.github.io/project/search_capability_program/</guid>
+      <description>&lt;p&gt;The Search Capability Program has built a heavily-tuned ElasticSearch-based search engine currently servicing millions of requests per day, serving up highly relevant search results for Business, Government and Points of Interest for Yellow Pages, WhereIs and numerous external partnerships.&lt;/p&gt;
 
-&lt;p&gt;Working with the SAPI development team, the Search Capability team consists
-  primarily of Data Scientists who leverage interaction data and content from
-  across Sensis (Yellow Pages, White Pages and WhereIs) to automate the
-  measurement and improvement of the SAPI Search algorithm and associated
-  Ontologies for a dramatically improved User Experience and Advertiser ROI.&lt;/p&gt;
+&lt;p&gt;Some of the activities I have conducted as part of the Search Capability team range from tasks in the following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Information Retrieval&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;continuously tuning and enhancing the search algorithm for maintaining or increasing search quality based on stakeholders&amp;rsquo; requirements;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;exploring new capabilities of ElasticSearch, while leading the migration of the search engine from its original implementation in Solr;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;supporting the development of internal tools for measuring search quality.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Machine Learning&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;developing reinforcement learning algorithms and decision trees for automatic classification of businesses;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;analysing automatic hierarchical clustering of business verticals using k-means, agglomerative and divisive strategies.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Data Analytics&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;extracting and interpreting logs (in some cases data crunching) to discover search trends or scenarios which demonstrate that suggested enhancements are working or need to be reviewed;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;producing dashboards and data visualisations that continuously monitor live data like NPS and organic searches.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Quick Prototyping&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;creating use cases and proof-of-concepts that help other business units within the company improve their offering;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;exploring the emerging use of chatbots and dialogue assistants such as Amazon Echo, Google Home, Facebook Messenger, Slack, etc., with some of these systems already live, and others to be released soon.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Sensis Ontology Program (Mar 2013 - Jun 2014)</title>
-      <link>https://deilanexe.github.io/project/Sensis_Ontologies/</link>
+      <title>Sensis Ontology Program (Mar 2013 - Present)</title>
+      <link>https://deilanexe.github.io/project/sensis_ontologies/</link>
       <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/Sensis_Ontologies/</guid>
-      <description>&lt;p&gt;The Sensis Ontology Program is an enabler for richer classification of Business,
-Government and Geospatial content and data across Sensis which aims to move
-classification away from manually managed print heading structures and into
-automated digital clusters of terms, concepts and categories.&lt;/p&gt;
+      <guid>https://deilanexe.github.io/project/sensis_ontologies/</guid>
+      <description>&lt;p&gt;The Sensis Ontology Program is an enabler for richer classification of Business, Government and Geospatial content and data across Sensis which aims to move classification away from manually managed printed books into automated digital clusters of terms, concepts and categories. The Ontology Program is designed to assist in providing fresher, more accurate and deeper content (e.g., Brands and Products) for listing retrieval via the Sensis Search API, as well as supporting data for business intelligence and data science teams.&lt;/p&gt;
 
-&lt;p&gt;This is designed to assist in providing fresher, more accurate and deeper
-content for more accurate retrieval of listings via SAPI Search, but also
-provides a significant boost in supporting data for business intelligence and
-data science teams.&lt;/p&gt;
+&lt;p&gt;As part of the Sensis Ontology project, I have been in charge of the following tasks:&lt;/p&gt;
 
-&lt;p&gt;This also extends on the existing Business Type Search foundation to enable more
-granular retrieval of listings based on Brand and Product information.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;exploring tools, standards and services to build a commercial Ontology;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;planning and monitoring development and testing at project-level to implement the production-level Ontology;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;integrating the Ontology with other repositories and capabilities, including the Sensis Search API, to enhance internal products and processes;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;devising and interacting with business units within Sensis for new products based on Ontology data.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Technical implementation of the Ontology covers tasks in Natural Language Processing and Ontology construction, to name some:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Terminology Extraction and Analysis&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;devising algorithms for retrieving meaningful content from unstructured texts;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;using part-of-speech analysis, term weighting, and reference data to extract relevant keywords;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Concept Detection and Clustering&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;naturally discovering and expanding clusters of terms that represent similar concepts.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some of my accomplishments in this project have been:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;proposing a first prototype of the Ontology in six months, and a full-fledged production system in a year, which was overall half of the time expected at the start of the project;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;using an early version of the Ontology in a prototype for a company-wide innovation event where our team got awarded the first place in the &amp;ldquo;Innovation for Customers&amp;rdquo; category;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;implementing several prototypes based on internal customers&amp;rsquo; requirements, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;data visualisation and process flow tools to identify overlaps and gains between pre-existing content and Ontology concepts;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;database systems that contained specialised information that represented brands, services and products acquired with the Ontology;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;APIs to access information in the Ontology for internal consumption.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

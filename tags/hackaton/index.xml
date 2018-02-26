@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hackaton on My Site - Daniel Macias-Galindo</title>
-    <link>https://deilanexe.github.io/tags/hackaton/index.xml</link>
+    <link>https://deilanexe.github.io/tags/hackaton/</link>
     <description>Recent content in Hackaton on My Site - Daniel Macias-Galindo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="/tags/hackaton/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-au</language>
+    <lastBuildDate>Thu, 16 Mar 2017 19:58:33 +1100</lastBuildDate>
+    <atom:link href="/tags/hackaton/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GovHack 2016 (Little Steps aka MOLE)</title>
-      <link>https://deilanexe.github.io/project/GovHack__MOLE/</link>
+      <link>https://deilanexe.github.io/project/govhack__mole/</link>
       <pubDate>Thu, 16 Mar 2017 19:58:33 +1100</pubDate>
       
-      <guid>https://deilanexe.github.io/project/GovHack__MOLE/</guid>
+      <guid>https://deilanexe.github.io/project/govhack__mole/</guid>
       <description>&lt;p&gt;&lt;em&gt;This project will develop a prototype, responsive and visually simple website
 that can help newly arrived migrants, refugees and asylum seekers navigate the
 complexities of settlement in Australia and connect to communities.&lt;/em&gt;&lt;/p&gt;
@@ -30,10 +31,10 @@ is shared through my
     
     <item>
       <title>Angular 2 Hack (hosted by General Assembly &amp; SSW)</title>
-      <link>https://deilanexe.github.io/project/Angular_2_hack/</link>
+      <link>https://deilanexe.github.io/project/angular_2_hack/</link>
       <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/Angular_2_hack/</guid>
+      <guid>https://deilanexe.github.io/project/angular_2_hack/</guid>
       <description>&lt;p&gt;I participated in this half-a-day crash-course hosted by General Assembly to
 learn the basics on Angular 2. Given that &lt;em&gt;what-to-wear&lt;/em&gt; was a personal project
 already running in AngularJS, me and my friend
@@ -50,10 +51,10 @@ project).&lt;/p&gt;
     
     <item>
       <title>RHoK: Changing Places (Jun 2016)</title>
-      <link>https://deilanexe.github.io/project/RHoK__Jun_2016/</link>
+      <link>https://deilanexe.github.io/project/rhok__jun_2016/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/project/RHoK__Jun_2016/</guid>
+      <guid>https://deilanexe.github.io/project/rhok__jun_2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.rhokaustralia.org/#welcome&#34; target=&#34;_blank&#34;&gt;Random Hacks of Kindness&lt;/a&gt; is &amp;ldquo;a
 community of technologists who solve problems for purpose driven organisations&amp;rdquo;.
 In the Winter 2016 2-day hackaton, I joined the team

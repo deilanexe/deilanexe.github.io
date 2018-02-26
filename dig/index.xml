@@ -2,101 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digs on My Site - Daniel Macias-Galindo</title>
-    <link>https://deilanexe.github.io/dig/index.xml</link>
+    <link>https://deilanexe.github.io/dig/</link>
     <description>Recent content in Digs on My Site - Daniel Macias-Galindo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 19 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/dig/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-au</language>
+    <lastBuildDate>Sat, 27 May 2017 22:03:25 +1000</lastBuildDate>
+    <atom:link href="/dig/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Red Dead Redemption</title>
+      <link>https://deilanexe.github.io/dig/red_dead_redemption__ps3/</link>
+      <pubDate>Sat, 27 May 2017 22:03:25 +1000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/red_dead_redemption__ps3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero Escape: Zero Time Dilemma</title>
+      <link>https://deilanexe.github.io/dig/zero_escape__zero_time_dilemma__psvita/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/zero_escape__zero_time_dilemma__psvita/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Horizon Zero Dawn</title>
-      <link>https://deilanexe.github.io/dig/Horizon_Zero_Dawn__PS4/</link>
+      <link>https://deilanexe.github.io/dig/horizon_zero_dawn__ps4/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/Horizon_Zero_Dawn__PS4/</guid>
+      <guid>https://deilanexe.github.io/dig/horizon_zero_dawn__ps4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gravity Rush 2</title>
-      <link>https://deilanexe.github.io/dig/Gravity_Rush_2__PS4/</link>
+      <link>https://deilanexe.github.io/dig/gravity_rush_2__ps4/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/Gravity_Rush_2__PS4/</guid>
+      <guid>https://deilanexe.github.io/dig/gravity_rush_2__ps4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Final Fantasy XV</title>
-      <link>https://deilanexe.github.io/dig/Final_Fantasy_XV__PS4/</link>
+      <link>https://deilanexe.github.io/dig/final_fantasy_xv__ps4/</link>
       <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/Final_Fantasy_XV__PS4/</guid>
+      <guid>https://deilanexe.github.io/dig/final_fantasy_xv__ps4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Last of Us Remastered</title>
-      <link>https://deilanexe.github.io/dig/The_Last_of_Us__PS4/</link>
+      <link>https://deilanexe.github.io/dig/the_last_of_us__ps4/</link>
       <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/The_Last_of_Us__PS4/</guid>
+      <guid>https://deilanexe.github.io/dig/the_last_of_us__ps4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WATCH_DOGS</title>
-      <link>https://deilanexe.github.io/dig/Watch_Dogs__PS4/</link>
+      <link>https://deilanexe.github.io/dig/watch_dogs__ps4/</link>
       <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/Watch_Dogs__PS4/</guid>
+      <guid>https://deilanexe.github.io/dig/watch_dogs__ps4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Batman: Arkham Knight</title>
-      <link>https://deilanexe.github.io/dig/Batman__Arkham_Knight__PS4/</link>
+      <link>https://deilanexe.github.io/dig/batman__arkham_knight__ps4/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/Batman__Arkham_Knight__PS4/</guid>
+      <guid>https://deilanexe.github.io/dig/batman__arkham_knight__ps4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transistor</title>
+      <link>https://deilanexe.github.io/dig/transistor__pc/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/dig/transistor__pc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Danganronpa: Trigger Happy Havok</title>
-      <link>https://deilanexe.github.io/dig/Danganronpa_Trigger_Happy_Havok__PSVita/</link>
+      <link>https://deilanexe.github.io/dig/danganronpa_trigger_happy_havok__psvita/</link>
       <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/Danganronpa_Trigger_Happy_Havok__PSVita/</guid>
+      <guid>https://deilanexe.github.io/dig/danganronpa_trigger_happy_havok__psvita/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncharted: Golden Abyss</title>
-      <link>https://deilanexe.github.io/dig/Uncharted_Golden_Abyss__PSVita/</link>
+      <link>https://deilanexe.github.io/dig/uncharted_golden_abyss__psvita/</link>
       <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/Uncharted_Golden_Abyss__PSVita/</guid>
+      <guid>https://deilanexe.github.io/dig/uncharted_golden_abyss__psvita/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Witcher 3: Wild Hunt</title>
-      <link>https://deilanexe.github.io/dig/The_Witcher_3_Wild_Hunt__PC/</link>
+      <link>https://deilanexe.github.io/dig/the_witcher_3_wild_hunt__pc/</link>
       <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/The_Witcher_3_Wild_Hunt__PC/</guid>
+      <guid>https://deilanexe.github.io/dig/the_witcher_3_wild_hunt__pc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alan Wake</title>
-      <link>https://deilanexe.github.io/dig/Alan_Wake__PC/</link>
+      <link>https://deilanexe.github.io/dig/alan_wake__pc/</link>
       <pubDate>Sat, 28 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://deilanexe.github.io/dig/Alan_Wake__PC/</guid>
-      <description></description>
+      <guid>https://deilanexe.github.io/dig/alan_wake__pc/</guid>
+      <description>
+
+&lt;p&gt;In a time after all Resident Evils and Silent Hills evolved into action games
+(this statement might not be quite true after Resident Evil 7), Alan Wake brings
+back the suspense and a bit of the action style from Remedy Interactive games
+like Max Payne to PC. I enjoyed this game a lot as it brought me back to &amp;ldquo;memory
+lane&amp;rdquo; of old survival horror games.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-s-it-all-about&#34;&gt;What&amp;rsquo;s it all about?&lt;/h1&gt;
+
+&lt;p&gt;Alan Wake is a writer searching for inspiration for his next novel in an
+outskirts town in the US, along with his wife Alice. Of course, nothing can keep
+quiet (otherwise we wouldn&amp;rsquo;t be having a game!) and, after some paranormal
+events happening in the cabin they were going to stay, Alice dissappears. It is
+now up to Alan to search the town for clues on her whereabouts, while dealing
+with his inner demons and, apparently, some of his book&amp;rsquo;s characters who start
+chasing him&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
