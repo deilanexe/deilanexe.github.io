@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Mon, 13 Aug 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://deilanexe.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coherent Topic Transition in a Conversational Agent</title>
+      <link>https://deilanexe.github.io/publication/macias-galindo_et_al_2012/</link>
+      <pubDate>Mon, 13 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/publication/macias-galindo_et_al_2012/</guid>
+      <description>Portland, OR.</description>
+    </item>
+    
+  </channel>
+</rss>

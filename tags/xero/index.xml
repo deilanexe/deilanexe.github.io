@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xero on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/tags/xero/</link>
+    <description>Recent content in Xero on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    
+	<atom:link href="https://deilanexe.github.io/tags/xero/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Xero Small Business Insights (AU)</title>
+      <link>https://deilanexe.github.io/project/sbi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/sbi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

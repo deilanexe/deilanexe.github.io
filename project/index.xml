@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/project/</link>
+    <description>Recent content in Projects on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Thu, 16 Mar 2017 19:58:33 +1100</lastBuildDate>
+    
+	<atom:link href="https://deilanexe.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GovHack 2016 (Little Steps aka MOLE)</title>
+      <link>https://deilanexe.github.io/project/govhack__mole/</link>
+      <pubDate>Thu, 16 Mar 2017 19:58:33 +1100</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/govhack__mole/</guid>
+      <description>This project will develop a prototype, responsive and visually simple website that can help newly arrived migrants, refugees and asylum seekers navigate the complexities of settlement in Australia and connect to communities.
+As part of the team I was in charge of extracting information from different data sources, which also involved diverse formats like CSV, plain text and JSON. Also I implemented an API in Python Flask that was used to query and return information from our consolidated data source.</description>
+    </item>
+    
+    <item>
+      <title>Angular 2 Hack (hosted by General Assembly &amp; SSW)</title>
+      <link>https://deilanexe.github.io/project/angular_2_hack/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/angular_2_hack/</guid>
+      <description>I participated in this half-a-day crash-course hosted by General Assembly to learn the basics on Angular 2. Given that what-to-wear was a personal project already running in AngularJS, me and my friend Mardi decided to work towards starting its migration to Angular 2. We struggled a bit to make it work and reducing dependencies towards using PHP (which set the basis for developing the what-to-wear API project).
+We ended up sharing the top prize as shown here.</description>
+    </item>
+    
+    <item>
+      <title>RHoK: Changing Places (Jun 2016)</title>
+      <link>https://deilanexe.github.io/project/rhok__jun_2016/</link>
+      <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/rhok__jun_2016/</guid>
+      <description>Random Hacks of Kindness is &amp;ldquo;a community of technologists who solve problems for purpose driven organisations&amp;rdquo;. In the Winter 2016 2-day hackaton, I joined the team &amp;ldquo;Changing Places&amp;rdquo;, which had the following tasks:
+ completing their WordPress website; and, proposing new ways for users to interact with them.  I got involved in the second task, and proposed different approaches for fast communication under the assumption that many carers carry a smart phone with them.</description>
+    </item>
+    
+    <item>
+      <title>what-to-wear</title>
+      <link>https://deilanexe.github.io/project/what-to-wear/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/what-to-wear/</guid>
+      <description>what-to-wear is an application with the purpose of storing my clothes and when I use them. It is comprised of a frontend developed in HTML, AngularJS and JavaScript (available on request), and a backend API in Python Flask.
+While it is mostly a log application with the idea of developing different skills, my idea is to extend this to implement machine learning services like proactively suggesting what garments to wear at a given day.</description>
+    </item>
+    
+    <item>
+      <title>Search Capability program (Jul 2015 - Present)</title>
+      <link>https://deilanexe.github.io/project/search_capability_program/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/search_capability_program/</guid>
+      <description>The Search Capability Program has built a heavily-tuned ElasticSearch-based search engine currently servicing millions of requests per day, serving up highly relevant search results for Business, Government and Points of Interest for Yellow Pages, WhereIs and numerous external partnerships.
+Some of the activities I have conducted as part of the Search Capability team range from tasks in the following areas:
+ Information Retrieval:
+ continuously tuning and enhancing the search algorithm for maintaining or increasing search quality based on stakeholders&amp;rsquo; requirements;</description>
+    </item>
+    
+    <item>
+      <title>Sensis Ontology Program (Mar 2013 - Present)</title>
+      <link>https://deilanexe.github.io/project/sensis_ontologies/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/sensis_ontologies/</guid>
+      <description>The Sensis Ontology Program is an enabler for richer classification of Business, Government and Geospatial content and data across Sensis which aims to move classification away from manually managed printed books into automated digital clusters of terms, concepts and categories. The Ontology Program is designed to assist in providing fresher, more accurate and deeper content (e.g., Brands and Products) for listing retrieval via the Sensis Search API, as well as supporting data for business intelligence and data science teams.</description>
+    </item>
+    
+    <item>
+      <title>Xero Small Business Insights (AU)</title>
+      <link>https://deilanexe.github.io/project/sbi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/sbi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/home/</link>
+    <description>Recent content in Homes on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Mon, 13 Mar 2017 12:13:35 +1100</lastBuildDate>
+    
+	<atom:link href="https://deilanexe.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://deilanexe.github.io/home/about/</link>
+      <pubDate>Mon, 13 Mar 2017 12:13:35 +1100</pubDate>
+      
+      <guid>https://deilanexe.github.io/home/about/</guid>
+      <description>I am a Data Scientist specialised in Ontology and Research Engineering. I have seven years of academic experience, and five years of working experience implementing systems for knowledge representation and classification, search engines for information analysis and retrieval, and conversational systems and chatbots for text and voice interaction.
+My skills allow me to perform different activities in my workplace, ranging from software development following Agile methodologies, project management within a team and with stakeholders, to designing and building machine learning algorithms based on Data Science principles.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://deilanexe.github.io/home/publications_selected/</link>
+      <pubDate>Mon, 13 Mar 2017 12:27:33 +1100</pubDate>
+      
+      <guid>https://deilanexe.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://deilanexe.github.io/home/posts/</link>
+      <pubDate>Mon, 13 Mar 2017 12:19:09 +1100</pubDate>
+      
+      <guid>https://deilanexe.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://deilanexe.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://deilanexe.github.io/home/contact/</link>
+      <pubDate>Mon, 13 Mar 2017 12:18:23 +1100</pubDate>
+      
+      <guid>https://deilanexe.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

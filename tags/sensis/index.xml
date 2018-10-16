@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensis on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/tags/sensis/</link>
+    <description>Recent content in Sensis on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Tue, 30 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://deilanexe.github.io/tags/sensis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Search Capability program (Jul 2015 - Present)</title>
+      <link>https://deilanexe.github.io/project/search_capability_program/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/search_capability_program/</guid>
+      <description>The Search Capability Program has built a heavily-tuned ElasticSearch-based search engine currently servicing millions of requests per day, serving up highly relevant search results for Business, Government and Points of Interest for Yellow Pages, WhereIs and numerous external partnerships.
+Some of the activities I have conducted as part of the Search Capability team range from tasks in the following areas:
+ Information Retrieval:
+ continuously tuning and enhancing the search algorithm for maintaining or increasing search quality based on stakeholders&amp;rsquo; requirements;</description>
+    </item>
+    
+    <item>
+      <title>Sensis Ontology Program (Mar 2013 - Present)</title>
+      <link>https://deilanexe.github.io/project/sensis_ontologies/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/sensis_ontologies/</guid>
+      <description>The Sensis Ontology Program is an enabler for richer classification of Business, Government and Geospatial content and data across Sensis which aims to move classification away from manually managed printed books into automated digital clusters of terms, concepts and categories. The Ontology Program is designed to assist in providing fresher, more accurate and deeper content (e.g., Brands and Products) for listing retrieval via the Sensis Search API, as well as supporting data for business intelligence and data science teams.</description>
+    </item>
+    
+  </channel>
+</rss>

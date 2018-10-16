@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/tags/personal/</link>
+    <description>Recent content in Personal on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://deilanexe.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>what-to-wear</title>
+      <link>https://deilanexe.github.io/project/what-to-wear/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://deilanexe.github.io/project/what-to-wear/</guid>
+      <description>what-to-wear is an application with the purpose of storing my clothes and when I use them. It is comprised of a frontend developed in HTML, AngularJS and JavaScript (available on request), and a backend API in Python Flask.
+While it is mostly a log application with the idea of developing different skills, my idea is to extend this to implement machine learning services like proactively suggesting what garments to wear at a given day.</description>
+    </item>
+    
+  </channel>
+</rss>

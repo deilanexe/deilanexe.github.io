@@ -1,0 +1,199 @@
+"conc1","def1","conc2","def2","domain","type2","average"
+"Amplifier","electronic equipment that increases strength of signals passing through it","Equalizer","electronic equipment that reduces frequency distortion","M","c",3.0417
+"Auditorium","the area of a theater or concert hall where the audience sits","Patio","usually paved outdoor area adjoining a residence","Sc","c",0.9600
+"Bill","a piece of paper money (especially one issued by a central bank)","Change","the balance of money received when the amount you tender is greater than the amount due","E","c",2.6923
+"Coach","someone in charge of training an athlete or a team","Referee","the chief official (as in boxing or American football) who is expected to ensure fair play","So","c",1.9600
+"Dormitory","a college or university building containing living quarters for students","Classroom","a room in a school where lessons take place","Sc","c",1.5833
+"Duck","small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs","Aquatic bird","wading and swimming and diving birds of either fresh or salt water","Z","c",3.0000
+"Footwear","clothing worn on a person's feet","Goods","articles of commerce","E","c",1.5600
+"Giant panda","large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family","Vertebrate","animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium","Z","c",1.4783
+"Harmony","the structure of music with respect to the composition and progression of chords","Voice","the melody carried by a particular voice or instrument in polyphonic music","M","c",2.8333
+"Hydrology","the branch of geology that studies water on the earth and in the atmosphere: its distribution and uses and conservation","Seismology","the branch of geology that studies earthquakes","B","c",1.6000
+"Kindergarten","a preschool for children age 4 to 6 to prepare them for primary school","Institution","an organization founded and united for a specific purpose","Sc","c",2.0000
+"Missile","a rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control","Vehicle","a conveyance that transports people or objects","C","c",0.9231
+"Muffin","a sweet quick bread baked in a cup-shaped pan","Bagel","glazed yeast-raised doughnut-shaped roll with hard crust","F","c",2.1538
+"Opera","a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes","Carol","joyful religious song celebrating the birth of Christ","M","c",1.6800
+"Punt","a kick in which the football is dropped from the hands and kicked before it touches the ground","Corner kick","a free kick from the corner awarded to the other side when a player has sent the ball behind his own goal line","So","c",2.0833
+"Reef","a submerged ridge of rock or coral near the surface of the water","Dune","a ridge of sand created by the wind; found in deserts or near lakes and oceans","B","c",1.0000
+"Salmon","flesh of any of various marine or freshwater fish of the family Salmonidae","Anchovy","small herring-like plankton-eating fishes often canned whole or as paste; abundant in tropical waters worldwide","F","c",2.6087
+"Sedan","a car that is closed and that has front and rear seats and two or four doors","Bobsled","a long racing sled (for 2 or more people) with a steering mechanism","C","c",0.8077
+"Shore boulder","a boulder found on a shore remote from its place of origin","Crystal","a rock formed by the solidification of a substance; has regularly repeating internal structure","B","c",1.5000
+"Soccer","a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal","Field game","an outdoor game played on a field of specified dimensions","So","c",3.2000
+"Speedway","road where high speed driving is allowed","Detour","a roundabout road (especially one that is used temporarily while a main route is blocked)","C","c",1.3462
+"Stadium","a large structure for open-air sports or entertainments","Hippodrome","a stadium for horse shows or horse races","S","c",2.3600
+"Stake","a right or legal share of something; a financial involvement with something","Investment","laying out money or capital in an enterprise with the expectation of profit","E","c",2.9600
+"Volleyball","a game in which two teams hit an inflated ball over a high net using their hands","Soccer","a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal","S","c",2.1600
+"Ambulance","a vehicle that takes people to and from hospitals","Bullet train","a high-speed passenger train","C","f",0.9200
+"Auto racing","the sport of racing automobiles","Circuit","a racetrack for automobile races","S","f",2.7500
+"Ballet","a theatrical representation of a story that is performed to music by trained dancers","Opera","a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes","M","f",2.6000
+"Bikini","a woman's abbreviated two-piece bathing suit","Bathing machine","a building containing dressing rooms for bathers","B","f",1.4000
+"Car","a motor vehicle with four wheels; usually propelled by an internal combustion engine","Airbus","a subsonic jet airliner operated over short distances","C","f",1.1600
+"Coach","someone in charge of training an athlete or a team","Ball game","a field game played with a ball","So","f",2.0800
+"Coach","someone in charge of training an athlete or a team","Blackmail","extortion of money by threats to divulge discrediting information","So","f",0.2083
+"Coach","a person who gives private instruction (as in singing or acting)","Teacher","a person whose occupation is teaching","Sc","f",2.8400
+"Competitiveness","an aggressive willingness to compete","Sport","an active diversion requiring physical exertion and competition","S","f",3.2400
+"Coriander","Old World herb with aromatic leaves and seed resembling parsley","Ginger","perennial plants having thick branching aromatic rhizomes and leafy reedlike stems","F","f",2.6522
+"Corner kick","a free kick from the corner awarded to the other side when a player has sent the ball behind his own goal line","Fan","an enthusiastic devotee of sports","So","f",1.0400
+"Duck","small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs","Butterfly","diurnal insect typically having a slender body with knobbed antennae and broad colorful wings","Z","f",0.5200
+"Equivocation","a statement that is not literally false but that cleverly avoids an unpleasant truth","Referee","the chief official (as in boxing or American football) who is expected to ensure fair play","So","f",1.2083
+"Fish","any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills","Chimpanzee","intelligent somewhat arboreal ape of equatorial African forests","Z","f",0.5600
+"Giant Panda","large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family","Zebra","any of several fleet black-and-white striped African equines","Z","f",1.3846
+"Goods","articles of commerce","Currency","the metal or paper medium of exchange that is presently used","E","f",2.2308
+"Gymnasium","athletic facility equipped for sports or physical training","Coach","a person who gives private instruction (as in singing or acting)","Sc","f",2.6800
+"Industry","the people or companies engaged in a particular kind of commercial enterprise","Capital","wealth in the form of money or property owned by a person or business and human resources of economic value","E","f",2.6800
+"Kangaroo","any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail","Shark","any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales","Z","f",0.6154
+"Koala","sluggish tailless Australian arboreal marsupial with gray furry ears and coat; feeds on eucalyptus leaves and bark","Dodo","extinct heavy flightless bird of Mauritius related to pigeons","Z","f",0.7200
+"Lion","large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male","Duck","small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs","Z","f",0.4000
+"Market","the world of commercial activity where goods and services are bought and sold","Merchant","a businessperson engaged in retail trade","E","f",3.3200
+"Mountain bike","a bicycle with a sturdy frame and fat tires; originally designed for riding in mountainous country","Minicab","a minicar used as a taxicab","C","f",0.8462
+"Penguin","short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers","Whale","any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head","Z","f",1.5000
+"Quay","wharf usually built parallel to the shoreline","Reef","a submerged ridge of rock or coral near the surface of the water","B","f",1.4783
+"Sand","a loose material consisting of grains of rock or coral","Seashore","the shore of a sea or ocean","B","f",3.3462
+"Sewage","waste matter carried away in sewers or drains","Beach","an area of sand sloping down to the water of a sea or lake","B","f",0.8400
+"Soldier","an enlisted man or woman who serves in an army","Academy","a school for special training","Sc","f",1.8400
+"Song","a short musical composition with words","Rhythm","the basic rhythmic unit in a piece of music","M","f",2.9200
+"Striker","a forward on a soccer team","Soccer","a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal","So","f",3.0833
+"Student","a learner who is enrolled in an educational institution","Self-esteem","a feeling of pride in yourself","Sc","f",1.3600
+"Supermarket","a large self-service grocery store selling groceries and dairy products and household goods","Restaurant","a building where people go to eat","F","f",0.9615
+"Tiger","large feline of forests in most of Asia having a tawny coat with black stripes; endangered","Koala","sluggish tailless Australian arboreal marsupial with gray furry ears and coat; feeds on eucalyptus leaves and bark","Z","f",0.6400
+"Toddler","a young child","Kindergarten","a preschool for children age 4 to 6 to prepare them for primary school","Sc","f",3.0800
+"Administration","the persons (or committees or departments etc.) who make up a body for the purpose of administering something","Governing body","the performance or management of business operations and thus the making or implementing of a major decision","S","s",2.7600
+"Bikini","a woman's abbreviated two-piece bathing suit","Two-piece","a women's swimsuit","B","s",3.5385
+"Bus","a vehicle carrying many passengers; used for public transport","Coach","a type of passenger-carrying road vehicle","C","s",3.4231
+"Captain","the leader of a group of people","Skipper","a team member chosen to be the on-pitch leader of the team","So","s",3.5200
+"Course","education imparted in a series of lessons or class meetings","Class","a unit of teaching that typically lasts one academic term, is led by one or more instructors (teachers or professors), has a fixed roster of students and gives each student a grade and academic credit","Sc","s",3.4400
+"Duration","the period of time during which something continues","Length","a certain dimension of an object along which the length is measured","E","s",3.0400
+"Feasting","eating an elaborate meal (often accompanied by entertainment)","Banqueting","a large meal or feast, complete with main courses and desserts. It usually serves a purpose such as a charitable gathering, a ceremony, or a celebration, and is often preceded or followed by speeches in honor of someone.","F","s",2.9231
+"Hymn","a song of praise (to God or to a saint or to a nation)","Anthem","a song (or composition) of celebration","M","s",2.0000
+"League","an association of sports teams that organizes matches for its members","Conference","a term commonly used to describe a group of sports teams or individual athletes that compete against each other in a specific sport","S","s",1.5000
+"Lullaby","a quiet song intended to lull a child to sleep","Cradlesong","a soothing song, usually sung to young children before they go to sleep, with the intention of speeding that process","M","s",3.4800
+"Management","the act of watching and directing something (a business)","Direction","the act of getting people together to accomplish desired goals and objectives using available resources efficiently and effectively","E","s",2.8077
+"Musical composition","a musical work that has been created","Piece","an original piece of music","M","s",3.3200
+"Platypus","small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae","Duckbill","an egg-laying, venomous, duck-billed, beaver-tailed, otter-footed mammal from Eastern Australia and Tasmania","Z","s",2.2222
+"Pool","any of various games played on a pool table having 6 pockets","Pocket billiards","he family of cue sports and games played on a pool table having six receptacles called pockets along the rails, into which balls are deposited as the main goal of play","S","s",2.7500
+"Road","an open way (generally public) for travel or transportation","Route","a public road, highway, path or trail or a route on water from one place to another for use by a variety of general traffic","C","s",2.7917
+"Seller","someone who promotes or exchanges goods or services for money","Vendor","the sale of goods or merchandise to retailers, to industrial, commercial, institutional, or other professional business users","E","s",3.6154
+"Substitute","a person or thing that takes or can take the place of another","Replacement","a player who is brought on to the pitch during a match in exchange for an existing player","So","s",3.5600
+"Tasting","taking a small amount into the mouth to test its quality","Savoring","a specific taste or smell","F","s",3.0000
+"Tone","a musical interval of two semitones","Step","the high or low sound of a musical note","M","s",2.6667
+"Transport","something that serves as a means of transportation","Conveyance","a shared passenger transportation service","C","s",2.2800
+"Aardvark","nocturnal burrowing mammal of the grasslands of Africa that feeds on termites","Ant","social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers","Z","w",1.6087
+"Aspirin","the acetylated derivative of salicylic acid; used as an analgesic anti-inflammatory drug usually taken in tablet form; used as an antipyretic","Acetylsalicylic acid","a salicylate drug, often used as an analgesic to relieve minor aches and pains, as an antipyretic to reduce fever, and as an anti-inflammatory medication","F","w",3.0909
+"Ballad","a narrative song with a recurrent refrain","Pop music","music of general appeal to teenagers; a bland watered-down version of rock'n'roll with more rhythm and harmony and an emphasis on romantic love","M","w",2.5600
+"Ballet","a theatrical representation of a story that is performed to music by trained dancers","Music","an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner","M","w",2.9600
+"Beach","an area of sand sloping down to the water of a sea or lake","Park","a large area of land preserved in its natural state as public property","B","w",1.4231
+"Beer","a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops","Sake","Japanese alcoholic beverage made from fermented rice; usually served hot","F","w",2.3600
+"Beetle","insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings","Caterpillar","a wormlike and often brightly colored and hairy or spiny larva of a butterfly or moth","Z","w",1.8333
+"Bill","a piece of paper money (especially one issued by a central bank)","Note","a form of cash currency","E","w",3.1600
+"Blues","a type of folksong that originated among Black Americans at the beginning of the 20th century; has a melancholy sound from repeated use of blue notes","Popular music","any genre of music having wide appeal (but usually only for a short time)","M","w",2.4000
+"Brake","a restraint used to slow or stop a vehicle","Hand brake","a brake operated by hand; usually operates by mechanical linkage","C","w",3.1600
+"Brake","a restraint used to slow or stop a vehicle","Tire","hoop that covers a wheel","C","w",2.5200
+"Brand","a name given to a product or service","Trade name","the name which a business trades under for commercial purposes","F","w",3.1250
+"Bribery","the practice of offering something (usually money) in order to gain an illicit advantage","Referee","the chief official (as in boxing or American football) who is expected to ensure fair play","So","w",0.9167
+"Bullying","the act of intimidating a weaker person to make them do something","Self-esteem","a feeling of pride in yourself","Sc","w",2.7200
+"Bus","a vehicle carrying many passengers; used for public transport","Passenger","a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it","C","w",3.1600
+"Camper","a recreational vehicle equipped for camping out while traveling","Motor home","a motor vehicle equipped with living space and amenities found in a home","C","w",2.8000
+"Celery","widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked","Salad","food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens","F","w",2.6154
+"Checkmate","a chess move constituting an inescapable and indefensible attack on the opponent's king","Chess","a board game for two players who move their 16 pieces according to specific rules; the object is to checkmate the opponent's king","S","w",3.5385
+"Cheese","a solid food prepared from the pressed curd of milk","Milk","a white nutritious liquid secreted by mammals and used as food by human beings","F","w",3.0000
+"Cheetah","long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game","Hyena","doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion","Z","w",2.0800
+"Chess","a board game for two players who move their 16 pieces according to specific rules; the object is to checkmate the opponent's king","Intelligence","a unit responsible for gathering and interpreting information about an enemy","S","w",2.6400
+"Coach","someone in charge of training an athlete or a team","Manager","the person responsible for running a football club or a national team","So","w",2.4000
+"Coin","a flat metal piece (usually a disc) used as money","Gold","a deep yellow color","E","w",2.6923
+"College","an institution of higher education created to educate and grant degrees","Dormitory","a college or university building containing living quarters for students","Sc","w",2.5200
+"Condiment","a preparation (a sauce or relish or spice) to enhance flavor or enjoyment","Beef","meat from an adult domestic bovine","F","w",1.4800
+"Coriander","Old World herb with aromatic leaves and seed resembling parsley","Citrus","any of numerous fruits of the genus Citrus having thick rind and juicy pulp; grown in warm regions","F","w",1.3636
+"Crab","decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers","Beach","an area of sand sloping down to the water of a sea or lake","B","w",2.4800
+"Crab","decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers","Seashore","the shore of a sea or ocean","B","w",2.6800
+"Cricket","a game played with a ball and bat by two teams of 11 players; teams take turns trying to score runs","Wicket","cricket equipment consisting of a set of three stumps topped by crosspieces; used in playing cricket","S","w",3.1200
+"Dribbling","the propulsion of a ball by repeated taps or kicks","Free kick","a place kick that is allowed for a foul or infringement by the other team","So","w",2.0000
+"Drum","a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretch across each end","Jazz","a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles","M","w",2.4800
+"Dune","a ridge of sand created by the wind; found in deserts or near lakes and oceans","Sand","a loose material consisting of grains of rock or coral","B","w",3.3600
+"Economics","the branch of social science that deals with the production and distribution and consumption of goods and services and their management","Business","a commercial or industrial enterprise and the people who constitute it","E","w",3.1923
+"Economist","an expert in the science of economics","Finance","the branch of economics that studies the management of money and other assets","E","w",2.9600
+"Economy","the system of production and distribution and consumption","Management","the act of watching and directing something (a business)","E","w",2.2800
+"Education","the activities of educating or instructing or teaching; activities that impart knowledge or skill","Student","a learner who is enrolled in an educational institution","Sc","w",3.5200
+"Education","the activities of educating or instructing or teaching; activities that impart knowledge or skill","Teaching","any act or experience that has a formative effect on the mind, character or physical ability of an individual","Sc","w",3.6400
+"Eggplant","egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow","Mad apple","hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable","F","w",1.2083
+"Erosion","the mechanical process of wearing or grinding something down","Geology","a science that deals with the history of the earth as recorded in rocks","B","w",2.8800
+"Extra time","playing time beyond regulation to break a tie","Tiebreaker","overtime play in order to break a tie","So","w",2.6818
+"Fare","the sum charged for riding in a public conveyance","Bus","a vehicle carrying many passengers; used for public transport","C","w",3.0385
+"Food","any substance that can be metabolized by an animal to give energy and build tissue","Advertising","a public promotion of some product or service","F","w",1.3750
+"Football","any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal","Corner kick","a free kick from the corner awarded to the other side when a player has sent the ball behind his own goal line","So","w",3.2400
+"Frog","any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species","Carnivore","a terrestrial or aquatic flesh-eating mammal","Z","w",0.8400
+"Fuel","a substance that can be consumed to produce energy","Automobile","a motor vehicle with four wheels; usually propelled by an internal combustion engine","C","w",3.2692
+"Gecko","any of various small chiefly tropical and usually nocturnal insectivorous terrestrial lizards typically with immovable eyelids; completely harmless","Cricket","leaping insect; male makes chirping noises by rubbing the forewings together","Z","w",0.7917
+"Geology","a science that deals with the history of the earth as recorded in rocks","Beach","an area of sand sloping down to the water of a sea or lake","B","w",1.6000
+"Goal","a successful attempt at scoring","Soccer","a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal","So","w",3.3200
+"Goalkeeper","the soccer or hockey player assigned to protect the goal","Goal","a successful attempt at scoring","So","w",3.2400
+"Goalkeeper","the soccer or hockey player assigned to protect the goal","Goalie","a designated player that is charged with directly preventing the opposite team from scoring by defending the goal","So","w",3.6800
+"Grapefruit","citrus tree bearing large round edible fruit having a thick yellow rind and juicy somewhat acid pulp","Vitamin C","a vitamin found in fresh fruits (especially citrus fruits) and vegetables; prevents scurvy","F","w",2.6957
+"Greenhouse gas","a gas that contributes to the greenhouse effect by absorbing infrared radiation","Carbon dioxide","a heavy odorless colorless gas formed during respiration and by the decomposition of organic substances","C","w",3.2800
+"Guacamole","a dip made of mashed avocado mixed with chopped onions and other seasonings","Avocado","a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed","F","w",3.0833
+"Gymnasium","athletic facility equipped for sports or physical training","Gym","a locality for both physical and intellectual education of young men","Sc","w",3.3600
+"Gymnasium","athletic facility equipped for sports or physical training","School","an educational institution","Sc","w",2.1600
+"Industrialism","an economic system built on large industries rather than on agriculture or craftsmanship","Capitalism","an economic system based on private ownership of capital","E","w",2.4583
+"Injury","any physical damage to the body caused by violence or accident or fracture etc.","Football","any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal","So","w",2.2800
+"Invention","the creation of something in the mind","Electric guitar","a guitar whose sound is amplified by electrical means","M","w",1.0800
+"Jingle","a comic verse of irregular measure","Brand","a recognizable kind","M","w",1.7273
+"Judo","a sport adapted from jujitsu (using principles of not resisting) and similar to wrestling","Blood","people viewed as members of a group","S","w",0.6538
+"Karate","a traditional Japanese system of unarmed combat; sharp blows and kicks are given to pressure-sensitive points on the body of the opponent","Tae Kwon Do","a Korean martial art similar to karate","S","w",2.8462
+"Kitchen","a room equipped for preparing meals","Microwave oven","kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food","F","w",2.4231
+"Koala","sluggish tailless Australian arboreal marsupial with gray furry ears and coat; feeds on eucalyptus leaves and bark","Kangaroo bear","an arboreal herbivorous marsupial native to Australia","Z","w",2.2000
+"Leisure","time available for ease and relaxation","School","an educational institution","Sc","w",1.0000
+"Lion","large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male","King of beasts","one of the four big cats in the genus Panthera, with some males exceeding 250 kg in weight, and the second-largest living cat after the tiger.","Z","w",2.9600
+"Loan","the temporary provision of money (usually at interest)","Bank","a financial institution that accepts deposits and channels the money into lending activities","E","w",3.3200
+"Loan","the temporary provision of money (usually at interest)","Debt","the state of owing something (especially money)","E","w",3.7308
+"Monetary value","the property of having material worth (often indicated by the amount of money something would bring if sold)","Price","the quantity of payment or compensation given by one party to another in return for goods or services","E","w",3.3600
+"Money","the most common medium of exchange; functions as legal tender","Debt","the state of owing something (especially money)","E","w",2.9615
+"Motorcycle","a motor vehicle with two wheels and a strong frame","Bike","the abbreviation for either bicycle or motorcycle","C","w",3.0000
+"Music","an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner","Musical instrument","any of various devices or contrivances that can be used to produce musical tones or sounds","M","w",3.5600
+"Nation","a politically organized body of people under a single government","Education","the activities of educating or instructing or teaching; activities that impart knowledge or skill","Sc","w",1.6800
+"Natural gas","a fossil fuel in the gaseous state; used for cooking and heating homes","Butane","occurs in natural gas; used in the manufacture of rubber and fuels","C","w",3.0870
+"Noise","sound of any kind (especially unintelligible or dissonant sound)","Television","broadcasting visual images of stationary or moving objects","M","w",2.0400
+"Note","a notation representing the pitch and duration of a musical sound","Sheet music","a musical composition in printed or written form","M","w",3.0400
+"Octopus","bottom-living cephalopod having a soft oval body with eight long tentacles","Devilfish","A cephalopod mollusc of the order Octopoda,  has two eyes and four pairs of arms, and like other cephalopods is bilaterally symmetric","Z","w",1.9200
+"Pedestrian","a person who travels by foot","Automobile","a motor vehicle with four wheels; usually propelled by an internal combustion engine","C","w",1.6154
+"Pier","a platform built out from the shore into the water and supported by piles; provides access to ships and boats","Wharf","a structure on the shore of a harbor where ships may dock to load and unload cargo or passengers","B","w",3.1667
+"Platypus","small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae","Camel","cud-chewing mammal used as a draft or saddle animal in desert regions","Z","w",0.6957
+"Poker","any of various card games in which players bet that they hold the highest-ranking hand","Casino","a card game in which cards face up on the table are taken with eligible cards in the hand","S","w",3.3200
+"Polo","a game similar to field hockey but played on horseback using long-handled mallets and a wooden ball","Horse","a padded gymnastic apparatus on legs","S","w",3.0400
+"Pop music","music of general appeal to teenagers; a bland watered-down version of rock'n'roll with more rhythm and harmony and an emphasis on romantic love","Guitar","a stringed instrument usually having six strings; played by strumming or plucking","M","w",2.6000
+"Property","something owned; any tangible or intangible possession that is owned by someone","Capitalism","an economic system based on private ownership of capital","E","w",2.5000
+"Radio","medium for communication","Sound","the sudden occurrence of an audible event","M","w",3.0400
+"Rat","any of various long-tailed rodents similar to but larger than a mouse","Cat","feline mammal usually having thick soft fur and being unable to roar; domestic cats; wildcats","Z","w",2.2000
+"Recipe","directions for making something","Ingredient","food that is a component of a mixture in cooking","F","w",2.9583
+"Road","an open way (generally public) for travel or transportation","Gasoline","a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines","C","w",1.4000
+"Salad","food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens","Fish","any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills","F","w",1.5833
+"Sand","a loose material consisting of grains of rock or coral","Beach","an area of sand sloping down to the water of a sea or lake","B","w",3.7308
+"Sardine","any of various small edible herring or related food fishes frequently canned","Omega-3","a polyunsaturated fatty acid whose carbon chain has its first double valence bond three carbons from the beginning","F","w",2.4400
+"Sax","a single-reed woodwind with a conical bore","Saxophone","a conical-bore transposing musical instrument that is a member of the woodwind family","M","w",3.2800
+"School","an educational institution","Bullying","the act of intimidating a weaker person to make them do something","Sc","w",2.0000
+"Seashore","the shore of a sea or ocean","Coast","the line where the land meets the sea or ocean.","B","w",3.7692
+"Shoal","a large group of fish","Dune","a ridge of sand created by the wind; found in deserts or near lakes and oceans","B","w",1.3043
+"Shore","the land along the edge of a body of water","Geology","a science that deals with the history of the earth as recorded in rocks","B","w",1.7500
+"Skateboard","a board with wheels that is ridden in a standing or crouching position and propelled by foot","Skateboarding","the sport of skating on a skateboard","S","w",3.6538
+"Soccer","a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal","Association football","A sport played between two teams of eleven players with a spherical ball","So","w",2.7083
+"Soccer","a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal","Champion","someone who has won first place in a competition","So","w",1.7200
+"Song","a short musical composition with words","Music genre","an expressive style of music","M","w",2.9600
+"Sport","an active diversion requiring physical exertion and competition","Athletics","a collection of sporting events that involve competitive running, jumping, throwing, and walking","S","w",3.2800
+"Sport","an active diversion requiring physical exertion and competition","Nationalism","love of country and willingness to sacrifice for it","S","w",1.0769
+"Starvation","the act of depriving of food or subjecting to famine","Food","any substance that can be metabolized by an animal to give energy and build tissue","F","w",3.1923
+"Steering","the act of guiding or showing the way","Vehicle","a conveyance that transports people or objects","C","w",3.1154
+"Student","a learner who is enrolled in an educational institution","Teacher","a person whose occupation is teaching","Sc","w",3.4800
+"Surfing","the sport of riding a surfboard toward the shore on the crest of a wave","Reef","a submerged ridge of rock or coral near the surface of the water","B","w",2.1538
+"Sustainability","the property of being sustainable","Industry","the people or companies engaged in a particular kind of commercial enterprise","E","w",2.0400
+"Swimsuit","tight fitting garment worn for swimming","Bathing","immersing the body in water or sunshine","B","w",2.7200
+"Tax","charge against a citizen's person or property or activity for the support of government","Cash","money in the form of bills or coins","E","w",2.2692
+"Teacher","a person whose occupation is teaching","Instructor","a teacher of a specialised subject that involves skill","Sc","w",3.5600
+"Teacher","a person whose occupation is teaching","Study hall","a classroom reserved for study","Sc","w",2.2000
+"Team sport","a sport that involves competition between teams of players","Soccer","a football game in which two teams of 11 players try to kick or head a ball into the opponents' goal","So","w",3.2800
+"Tennis","a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court","Badminton","a game played on a court with light long-handled rackets used to volley a shuttlecock over a net","S","w",2.7200
+"Tiger","large feline of forests in most of Asia having a tawny coat with black stripes; endangered","Elephant","five-toed pachyderm","Z","w",1.6400
+"Train","public transport provided by a line of railway cars coupled together and drawn by a locomotive","Wheel","a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)","C","w",1.8000
+"University","a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees","Engineering","the discipline dealing with the art or science of applying scientific knowledge to practical problems","Sc","w",2.3600
+"Wage","something that remunerates","Remuneration","typically money that is paid for services rendered as an employee","S","w",3.4400
+"Wage","something that remunerates","Sport","an active diversion requiring physical exertion and competition","S","w",1.6800
+"Washout","the erosive process of washing away soil or gravel by water (as from a roadway)","Erosion","the mechanical process of wearing or grinding something down","B","w",2.3750
+"Wing","a barrier that surrounds the wheels of a vehicle to block splashing water or mud","Auto racing","the sport of racing automobiles","S","w",1.6957
+"Wood","the hard fibrous lignified substance under the bark of trees","Baseball bat","an implement used in baseball by the batter","S","w",2.2692

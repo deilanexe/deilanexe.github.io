@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on My Site - Daniel Macias-Galindo</title>
+    <link>https://deilanexe.github.io/tags/work/</link>
+    <description>Recent content in Work on My Site - Daniel Macias-Galindo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Wed, 04 Oct 2017 22:57:10 +1100</lastBuildDate>
+    
+	<atom:link href="https://deilanexe.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>chatbots</title>
+      <link>https://deilanexe.github.io/post/chatbots/</link>
+      <pubDate>Wed, 04 Oct 2017 22:57:10 +1100</pubDate>
+      
+      <guid>https://deilanexe.github.io/post/chatbots/</guid>
+      <description>Was a hook for me to take a topic for my PhD.</description>
+    </item>
+    
+  </channel>
+</rss>
